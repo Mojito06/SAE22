@@ -1,5 +1,3 @@
-"""Toutes les fonctions utiles pour les TPs de R206 !"""
-
 from sounddevice import *
 from pylab import *
 import scipy.signal as sc       # pour utiliser les fonctions liées aux filtres 
